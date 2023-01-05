@@ -61,6 +61,8 @@ This project is currently in beta and is still work in progress. **Oracle Discor
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/105528405/210776847-d6ffc282-9c16-4213-a7fc-b355b20142e0.png" width="650" height="375">
+<img src="https://user-images.githubusercontent.com/105528405/210781626-6014bb71-9c98-43bc-bb03-a6edf0346482.png" width="650" height="250">
 <img src="https://user-images.githubusercontent.com/105528405/210774850-7d717c4b-c571-43ae-a364-cd4c30827b1f.png" width="750" height="375">
 <img src="https://user-images.githubusercontent.com/105528405/210776872-ce4badbf-9fe5-4953-86b2-05e5ed934514.png" width="500" height="375">
 <img src="https://user-images.githubusercontent.com/105528405/210781057-7af3bdbe-357b-456d-9d31-9670db4fb27f.png" width="450" height="600">
+
