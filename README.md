@@ -38,3 +38,5 @@ An advanced 2in1 Discord RAT & Token Grabber
 </details>
 
 ## Screenshots
+<img src="https://user-images.githubusercontent.com/105528405/210774850-7d717c4b-c571-43ae-a364-cd4c30827b1f.png" width="750" height="375">
+
