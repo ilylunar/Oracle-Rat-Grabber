@@ -54,6 +54,7 @@ An advanced 2in1 Discord RAT & Token Grabber
     - Mass download/run 
     - Reverse proxy? 
 - File dropper to Microsoft Exclusion Folder 
+- Discord injection
 
 
 ## Note
