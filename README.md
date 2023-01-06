@@ -1,5 +1,5 @@
 # Oracle Discord RAT/Grabber
-An advanced 2in1 Discord RAT & Token Grabber
+An advanced 2in1 Discord RAT & Token Grabber made in Go
 
 ## Current Features
 - Practically FUD (gets detected by 2 less known AV's)
