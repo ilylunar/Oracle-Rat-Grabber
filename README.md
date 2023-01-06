@@ -41,7 +41,7 @@ An advanced 2in1 Discord RAT & Token Grabber
     <ul>
 </details>
 
-## To Do - 10⭐ = 1 added feature
+## 10⭐ = 1 added feature
 - More Discord information
     - Badges 
     - HQ friends/guilds 
