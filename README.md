@@ -42,19 +42,19 @@ An advanced 2in1 Discord RAT & Token Grabber made in Go
 </details>
 
 ## 10⭐ = 1 added feature
-- More Discord information
+- [ ] More Discord information
     - Badges 
     - HQ friends/guilds 
     - Gift inventory 
-- Browser data
+- [ ] Browser data
     - Cookies 
     - Passwords 
     - Autofill 
-- More RAT commands
+- [ ] More RAT commands
     - Mass download/run 
     - Reverse proxy? 
-- File dropper to Microsoft Exclusion Folder 
-- Discord injection
+- [x] File dropper to Microsoft Exclusion Folder 
+- [ ] Discord injection
 
 
 ## Note
