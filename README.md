@@ -46,7 +46,7 @@ An advanced 2in1 Discord RAT & Token Grabber made in Go
     - Badges 
     - HQ friends/guilds 
     - Gift inventory 
-- [ ] Browser data
+- [x] Browser data
     - Cookies 
     - Passwords 
     - Autofill 
