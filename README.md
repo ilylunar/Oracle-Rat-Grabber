@@ -1,9 +1,12 @@
 # Oracle Discord RAT/Grabber
 An advanced 2in1 Discord RAT & Token Grabber made in Go
 
+# NEW SERVER (GOT TERMED)
+**https://discord.gg/PpfsMXHH**
+
 ## Current Features
 - Practically FUD with file dropper
-- Build bot in [Discord server](https://discord.gg/jpxDSFtcJN)
+- Build bot in [Discord server](https://discord.gg/PpfsMXHH)
 <details>
     <summary>Discord RAT</summary>
     <ul>
@@ -58,7 +61,7 @@ An advanced 2in1 Discord RAT & Token Grabber made in Go
 
 
 ## Note
-This project is currently in beta and is still work in progress. **Oracle Discord RAT/Grabber** is open for free testing to users that are in the [Discord](https://discord.gg/jpxDSFtcJN). If you would like to become a tester, join [HERE](https://discord.gg/aXkpTTWB). Once **Oracle** has been finalized, a free source code will be released here.
+This project is currently in beta and is still work in progress. **Oracle Discord RAT/Grabber** is open for free testing to users that are in the [Discord](https://discord.gg/jpxDSFtcJN). If you would like to become a tester, join [HERE](https://discord.gg/PpfsMXHH). Once **Oracle** has been finalized, a free source code will be released here.
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/105528405/210776847-d6ffc282-9c16-4213-a7fc-b355b20142e0.png" width="650" height="375">
